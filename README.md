@@ -2,7 +2,11 @@
 
 # IMPLEMENTATION OF SYMBOL TABLE
 
-## Register Number :212223040009
+# Name : KAMALESH R
+
+# Register Number : 212223040009
+
+# Date : 22/08/2025
 
 # AIM:
 
@@ -81,11 +85,10 @@ int main() {
 
 	return 0;
 }
+
 ```
-
 # OUTPUT:
-<img width="856" height="520" alt="Screenshot 2025-08-22 101908" src="https://github.com/user-attachments/assets/28ff61fa-812f-4d85-bf40-210592e54624" />
-
+<img width="643" height="535" alt="image" src="https://github.com/user-attachments/assets/0157f46f-bb3f-4f90-80ff-cccaf0ea24bb" />
 
 # RESULT:
 
