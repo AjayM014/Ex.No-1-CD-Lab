@@ -2,7 +2,7 @@
 
 # IMPLEMENTATION OF SYMBOL TABLE
 
-# Name : KAMALESH R
+# Name : Ajay M
 
 # Register Number : 212223040009
 
